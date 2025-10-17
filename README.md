@@ -80,18 +80,3 @@ For questions or feedback, feel free to reach out:
 Your Name: rakeshjayanna19@gmail.com
 GitHub: rakeshjayanna
 
-
-
----
-
-### **How to Use This README**
-1. Copy the content above into a file named `README.md` in your project folder.
-2. Replace `your-username` in the clone URL with your GitHub username.
-3. Replace `your_api_key_here` with your actual YouTube Data API key.
-4. Customize the **Contact** section with your details.
-
----
-
-### **Final Notes**
-- The README file is the first thing people see when they visit your GitHub repository. Make sure it’s clear, concise, and easy to follow.
-- If you need further customization or have questions, let me know! 😊
